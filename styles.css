@@ -14,3 +14,16 @@
 .blank {
     background-color: plum;
 }
+
+.number {
+    font-size: 10px;
+}
+
+.symbol {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.name {
+    font-size: 10px;
+}
