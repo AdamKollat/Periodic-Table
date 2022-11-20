@@ -1,3 +1,7 @@
+body {
+    font-size: 18px;
+}
+
 .container {
     display: flexbox;
     width: 90%;
@@ -16,6 +20,7 @@
 }
 
 .number {
+    text-align: center;
     font-size: 10px;
 }
 
