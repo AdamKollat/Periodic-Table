@@ -45,6 +45,14 @@ h1 {
     height: 30px;
 }
 
+.mint {
+    background-color: #CFFFC9;
+}
+
+.moss {
+    background-color: #E2EFC8;
+}
+
 .yellow {
     background-color: #ffffcd;
 }
