@@ -47,6 +47,27 @@ h1 {
     height: 30px;
 }
 
-@media screen and (min-width:1200px) {
-    
+@media screen and (max-width:1200px) {
+    .main {
+        display: none;
+    }
+
+    .image-container {
+        display: block;
+    }
+
+    img {
+        max-width: 90%;
+        height: auto;
+    }
+}
+
+@media screen and (min-width:1200px){
+    .main {
+        display: block;
+    }
+
+    .image-container {
+        display: none;
+    }
 }
