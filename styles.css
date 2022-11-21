@@ -45,8 +45,16 @@ h1 {
     height: 30px;
 }
 
+.cyan {
+    background-color: #C6FFFF;
+}
+
 .hawkes_blue {
     background-color: #C4DDFF;
+}
+
+.humming_bird {
+    background-color: #CDFFEC;
 }
 
 .mint {
