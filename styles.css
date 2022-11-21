@@ -11,7 +11,6 @@ h1 {
     max-width: 90%;
     margin-left: auto;
     margin-right: auto;
-    background-color: blueviolet;
 }
 
 .table {    
@@ -20,7 +19,6 @@ h1 {
 
 .main {
     width: 100vw;
-    background-color: aquamarine;
 }
 
 .element {
@@ -45,6 +43,10 @@ h1 {
 
 .spacer {
     height: 30px;
+}
+
+.yellow {
+    background-color: #ffffcd;
 }
 
 @media screen and (max-width:1200px) {
