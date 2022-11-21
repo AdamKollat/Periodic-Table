@@ -49,6 +49,10 @@ h1 {
     background-color: #ffffcd;
 }
 
+.salmon {
+    background-color: #FFCFCC;
+}
+
 @media screen and (max-width:1200px) {
     .main {
         display: none;
