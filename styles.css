@@ -2,21 +2,31 @@ body {
     font-size: 18px;
 }
 
+h1 {
+    text-align: center;
+}
+
 .container {
-    display: flexbox;
-    width: 90%;
+    display: flex;
+    max-width: 90%;
     margin-left: auto;
     margin-right: auto;
+    background-color: blueviolet;
+}
+
+.table {    
+    width: 100%;
+}
+
+.main {
+    width: 100vw;
+    background-color: aquamarine;
 }
 
 .element {
     border: 1px solid black;
     text-align: center;
-
-}
-
-.blank {
-    background-color: plum;
+    max-width: 50px;
 }
 
 .number {
@@ -31,4 +41,12 @@ body {
 
 .name {
     font-size: 10px;
+}
+
+.spacer {
+    height: 30px;
+}
+
+@media screen and (min-width:1200px) {
+    
 }
